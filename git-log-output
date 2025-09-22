@@ -1,0 +1,39 @@
+commit b161ebc86aff679a5850240144a61af5512b19a4
+Author: Aaron Ramirez <aer@njit.edu>
+Date:   Mon Sep 22 01:35:04 2025 +0000
+
+    Revert "Adding a new text file"
+    
+    This reverts commit 04ad01a6e357f24eef68d659ff182bedab940b9c.
+
+commit 04ad01a6e357f24eef68d659ff182bedab940b9c
+Author: Aaron Ramirez <aer@njit.edu>
+Date:   Mon Sep 22 01:28:34 2025 +0000
+
+    Adding a new text file
+    
+    This commit is adding a new text file called mynewfile.txt
+
+commit c99299f4ce2c0bfc4890e141d64fce734ec5ba60
+Author: Aaron Ramirez <aer@njit.edu>
+Date:   Mon Sep 22 01:17:57 2025 +0000
+
+    Ading to hostname
+    
+    I added a message to hostname
+
+commit 5c9263af4e11ac715aeba26646a7b7ff9a89ae3e
+Author: Aaron Ramirez <aer@njit.edu>
+Date:   Mon Sep 22 00:23:46 2025 +0000
+
+    Message commit
+    
+    This commit is to add a message to a file
+
+commit f606c4d64f594c6bdfc1a774bfd258ce2b28ff32
+Author: Aaron Ramirez <aer@njit.edu>
+Date:   Mon Sep 22 00:13:25 2025 +0000
+
+    My initial commit
+    
+    This is my initial commit
